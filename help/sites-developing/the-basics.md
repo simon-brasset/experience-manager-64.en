@@ -376,7 +376,7 @@ A page has a hierarchy node of type cq:Page and a content node of type cq:PageCo
 
 For example, to get the name of the current page, you can use following code in your script:
 
-S`tring pageName = currentPage.getName();`
+String pageName = currentPage.getName();`
 
 With currentPage being the current page object. For more information on manipulating Page objects, refer to the [Javadocs](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/reference-materials/javadoc/com/day/cq/wcm/api/Page.html).
 
